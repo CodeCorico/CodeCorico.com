@@ -1,4 +1,3 @@
-CodeCorico.com
-==============
+# CodeCorico.com
 
-Official CodeCorico website
+Official CodeCorico website code
